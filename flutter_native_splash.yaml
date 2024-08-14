@@ -1,0 +1,18 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/img/logo_mindearth_icon.png
+  image_dark: assets/img/logo_mindearth_icon.png
+  branding: assets/img/logo_mindearth.png
+  branding_dark: assets/img/logo_mindearth_white.png
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/img/logo_mindearth_icon.png
+    image_dark: assets/img/logo_mindearth_icon.png
+    branding: assets/img/logo_mindearth.png
+    branding_dark: assets/img/logo_mindearth_white.png
+
+web: false
+
